@@ -4,4 +4,11 @@ mod_pony is a joke. It is also an example Apache httpd module, which displays, r
 
 The pony joke is an old one, and a part of the Apache httpd culture.
 
-todo - document more about the pony joke.
+The joke basically goes like:
+
+"I want x and y and z".
+"Also, I want a pony."
+
+The joke being, you're not getting a pony, either.
+
+Ha, ha.
