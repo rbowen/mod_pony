@@ -12,3 +12,9 @@ The joke basically goes like:
 The joke being, you're not getting a pony, either.
 
 Ha, ha.
+
+Install the module using `apxs`:
+
+`apxs -cia mod_pony.c`
+
+This requires that you have Apache httpd installed, and also that you have `apxs` installed, which probably comes with your distribution's `httpd-devel` (or similarly named) package.
