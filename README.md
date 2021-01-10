@@ -13,6 +13,8 @@ The joke being, you're not getting a pony, either.
 
 Ha, ha.
 
+## Installation
+
 Install the module using `apxs`:
 
 `apxs -cia mod_pony.c`
