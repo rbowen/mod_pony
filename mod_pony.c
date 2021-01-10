@@ -60,7 +60,7 @@ ap_rputs("             _                                \n", r);
 ap_rputs(" _ __   ___ | |_   _   _  ___  _   _ _ __ ___ \n", r);
 ap_rputs("| '_ | / _ || __| | | | |/ _ || | | | '__/ __|\n", r);
 ap_rputs("| | | | (_) | |_  | |_| | (_) | |_| | |  |__ |\n", r);
-ap_rputs("|_| |_||___/ |__|  |__, ||___/ |__,_|_|  |___<a href='http://i-want-a-pony.com/IWantAPony.jpg'>/</a>\n", r);
+ap_rputs("|_| |_||___/ |__|  |__, ||___/ |__,_|_|  |___<a href='http://boxofclue.com/nopony.jpg'>/</a>\n", r);
 ap_rputs("                   |___/                      \n", r);
     	ap_rputs("</pre></body></html>\n", r);
 
