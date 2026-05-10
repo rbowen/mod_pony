@@ -20,12 +20,10 @@
  * SetHandler pony
  * </Files>
  *
- * This module is licensed under the HJTI license 
- * (http://drbacchus.com/hjti) which is 100% compatible with 
- * the Apache Software License.
+ * This module is licensed under the Apache License, Version 2.0.
  *
  * More details about the reasons for this inanity here:
- * http://drbacchus.com/mod_pony
+ * https://drbacchus.com/mod_pony
  *
  */
 
@@ -60,7 +58,7 @@ ap_rputs("             _                                \n", r);
 ap_rputs(" _ __   ___ | |_   _   _  ___  _   _ _ __ ___ \n", r);
 ap_rputs("| '_ | / _ || __| | | | |/ _ || | | | '__/ __|\n", r);
 ap_rputs("| | | | (_) | |_  | |_| | (_) | |_| | |  |__ |\n", r);
-ap_rputs("|_| |_||___/ |__|  |__, ||___/ |__,_|_|  |___<a href='http://boxofclue.com/nopony.jpg'>/</a>\n", r);
+ap_rputs("|_| |_||___/ |__|  |__, ||___/ |__,_|_|  |___<a href='https://boxofclue.com/nopony.jpg'>/</a>\n", r);
 ap_rputs("                   |___/                      \n", r);
     	ap_rputs("</pre></body></html>\n", r);
 
